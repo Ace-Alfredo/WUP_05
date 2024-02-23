@@ -43,6 +43,8 @@ barchartGC(~infected + treatment,data=drugies, type="percent")
 
 ```
 
+  This shows that most of the people who take the drug have a better chance of preventing aids. Also shows that the placebo is not as effective as the drugs.
+    
 #### Plot barplots ggplot way
 
 ### Numerical Descriptive Results
