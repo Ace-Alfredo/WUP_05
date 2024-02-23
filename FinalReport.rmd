@@ -75,5 +75,5 @@ fisher.test(table1)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
   
-
+As you can see from the graphic results and the infernal results. We can see that the people who had use the placebo had a higher chance of getting aids. Meanwhile people who used the drugs had almost tripled in the amount of them not having aids compared to the ones who took placebo and has aids. This means people shouldn't take the placebo.
   
